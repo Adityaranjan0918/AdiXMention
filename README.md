@@ -25,7 +25,7 @@ AdiXMention Bot Can Mention 5K + Members In Telegram Group And Channels Written 
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaranjan0918&show_icons=true&locale=en&layout=compact" alt="adityaranjan0918" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=adityaranjan0918/devilx)](https://github.com/adityaranjan0918/DevilX/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=adityaranjan0918/devilx)](https://github.com/adityaranjan0918/AdixMention/graphs/contributors)
 ─「 INDIAN CODERS 」─
 </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
